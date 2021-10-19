@@ -43,6 +43,7 @@ const useFirebase = () => {
         })
     }, []);
 
+    // Log out/ Sign out
     const logOut = () => {
         setIsLodding(true)
         signOut(auth)
@@ -52,20 +53,24 @@ const useFirebase = () => {
             .finally(() => setIsLodding(false))
     };
 
+    // collect email address
     const handleEmailChange = e => {
         setEmail(e.target.value);
         setError("")
     };
 
+    // collect password
     const handlePasswordChange = e => {
         setPassword(e.target.value)
     };
 
+    // collect name
     const handleNameChange = e => {
         setName(e.target.value);
         setError("")
     };
 
+    // set display name
     const setUserName = () => {
         updateProfile(auth.currentUser, {
             displayName: name
@@ -73,6 +78,7 @@ const useFirebase = () => {
             .then(result => { })
     }
 
+    // Registration with email and password
     const handleRegistration = e => {
         e.preventDefault();
         // console.log(email, password, name);
@@ -103,6 +109,7 @@ const useFirebase = () => {
             })
     };
 
+    //Login with email and password
     const handleLogin = e => {
         e.preventDefault();
         signInWithEmailAndPassword(auth, email, password)

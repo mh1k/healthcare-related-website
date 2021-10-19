@@ -17,7 +17,7 @@ const Services = () => {
                 <h2 className=" mt-4  fw-bold title-service">Our Services</h2>
                 <hr className="mb-5" />
 
-                <Row xs={1} md={3} className="g-4">
+                <Row xs={1} md={3} className="g-4"> {/*  service card */}
                     {
                         services.map(service => <Col key={service.service_id}>
                             <Card className="d-flex flex-row align-items-center p-3  h-100">

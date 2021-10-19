@@ -7,7 +7,7 @@ const About = () => {
         <div>
             <Container>
                 <h2 className=" mt-4  fw-bold title-service">About us</h2>
-                <hr  className="mb-5" />
+                <hr className="mb-5" />
                 <h1 className=" mt-4 p-2 mb-4 text-center fw-bold mission-vision">Mission And Vision</h1>
                 <Row className="p-4 g-4">
                     <div className="col-md-6 p-3 shadow">
