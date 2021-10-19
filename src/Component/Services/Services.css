@@ -1,0 +1,17 @@
+.service-img{
+    height: 80px;
+    width: 80px;
+}
+.servicesBtn{
+    background-color: cornflowerblue;
+    color: white;
+    border: none;
+    padding: 5px 15px;
+
+}
+.title-service{
+    color: cornflowerblue;
+}
+.sppiner-sec{
+    height: 600px;
+}

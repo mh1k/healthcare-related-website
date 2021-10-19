@@ -1,0 +1,168 @@
+[
+    {
+        "service_id": "MDC01",
+        "serviceName": "Gastroenterology",
+        "img": "https://www.columbiaindiahospitals.com/sites/all/themes/columbianew/img/new-design-images/specialties-page-icons/medical-gastroenterology.png",
+        "summary": "The Department of Medical Gastroenterology Medi Care, has a highly skilled team of Gastroenterologists who have been trained in some of the best institutes in India and abroad. The specialty offers a wide range of treatment options to both pediatric and adult patients having liver, esophagus, stomach and intestinal, pancreatic diseases and nutritional problems.A multi-disciplinary team involving medical, surgical and radiological expertise perform procedures like transjugular intra hepatic porto systemic shunts (TIPS), transjugular liver biopsy and trans-arterial chemotherapy. The department has advanced equipment like high definition endoscopy, and endoscopic ultrasound and is well supported by round the clock laboratory, ICU, radiology and emergency services to ensure patients receive highest level of care in a timely manner.",
+        "detailstitle": "Treatments and Procedures",
+        "details": [
+            "Diagnostic gastroscopy and colonoscopy",
+            "Balloon enteroscopy",
+            "ERCP (Endoscopic Retrograde Cholangio Pancreatography)",
+            "Therapeutic Endoscopy",
+            "Liver Biopsy – routine, transjugular biopsies and hepatic portal vein gradient measurements (HVPG).",
+            "Placement of feeding tubes –gastrostomy (PEG) and jejunostomy tubes.",
+            "Transjugular intra hepatic porto systemic Shunts (TIPS)",
+            "Trans-arterial chemotherapy."
+        ]
+    },
+    {
+        "service_id": "MDC02",
+        "serviceName": "Critical Care Medicine",
+        "img": "https://www.columbiaindiahospitals.com/sites/all/themes/columbianew/img/new-design-images/specialties-page-icons/critical-care-medicine.png",
+        "summary": "Medi Care, provides critical care services round the clock with a team of highly qualified, skilled and experienced intensivists and nurses. The plan of care for the patient is prepared in consensus with the admitting specialist, the patient and the family.Periodic multi-disciplinary briefings on patient’s condition are provided to his/her family.Intensive Care Team practices evidence based medicine and follows international protocols and quality indicators like ‘FASTHUG’ to enable good outcomes and decreased hospital stay. The ICU outcomes are monitored with tools like ‘APACHE’ scoring and SMR (Standardised Mortality Ratios) that help the department benchmark outcomes against internationally reputed ICUs. Infection control protocols to prevent healthcare associated infections (HCAI) like ventilator associated pneumonia (VAP), catheter related blood stream infection (CRBSI) and catheter associated urinary tract infection (CAUTI) are followed rigorously.The ICU at Medi Care, provides retrieval services to patients from other hospitals that do not have similar facilities. It involves transporting critically ill patients from other healthcare facilities in a well-equipped ambulance with a team including an intensivist and an ICU nurse depending on the seriousness of the patient.",
+        "detailstitle": "Services offered",
+        "details": [
+            "Continuous monitoring for critically ill or injured patients",
+            "Life support measures for patients with multi organ failure",
+            "Post-operative care to transplant patients, critically ill, surgical patients",
+            "Non-invasive and invasive ventilation",
+            "Dialysis, percutaneous tracheostomies, chest drain insertions and fibre-optic bronchoscopies",
+            "Multidisciplinary meetings for complicated patients",
+            "Retrieval services"
+        ]
+    },
+    {
+        "service_id": "MDC03",
+        "serviceName": "Spinal Diseases",
+        "img": "https://www.columbiaindiahospitals.com/sites/all/themes/columbianew/img/new-design-images/specialties-page-icons/centre-for-spinal-diseases.png",
+        "summary": "Medi Care have a Centre of excellence for Spine disorders. Our Spine specialists are well experienced and trained at some of the best hospitals in India and abroad. The specialized infrastructure is designed to suit the needs of patients and built for maximum comfort and efficiency. Patients benefit from advanced medical diagnostics, treatment and the personal care that only comes in facilities, where the focus is on individualised, patient specific management and treatment plans. Our consultants practice evidence based medicine, adding their own invaluable experience and follow internationally benchmarked treatment protocols.Accurate diagnosis of spinal problems requires great expertise and cutting-edge techniques and this is offered by the Medi Carespine team. The spine consultants involve a multi-disciplinary team of neurophysicians, endocrinologists, physiotherapists to ensure that a holistic treatment is given to each patient. Patients and their families are actively involved in designing a patient specific treatment plan. All these customized care plans maximise the success of our treatments.",
+        "detailstitle": "Conditions and symptoms related to the spine, that are routinely and effectively treated here:",
+        "details": [
+            "Back pain",
+            "Bulging disk",
+            "Disk disease including infection",
+            "Lumbar spondylosis",
+            "Myelopathy",
+            "Radiculopathy",
+            "Sciatica",
+            "Spinal stenosis",
+            "Spondylolisthesis",
+            "Spondylotic myelopathy",
+            "Synovial cyst",
+            "Congenital/Developmental defects of the spine (Scoliosis/Kyphosis, Spinal Deformity)"
+        ]
+    },
+    {
+        "service_id": "MDC04",
+        "serviceName": "Cardiology",
+        "img": "https://www.columbiaindiahospitals.com/sites/all/themes/columbianew/img/new-design-images/specialties-page-icons/cardiology-interventional.png",
+        "summary": "Interventional Cardiology is that branch of cardiology that specifically deals with diagnosing and treating cardiovascular diseases which includes congenital (present at birth) as well as acquired- like coronary heart disease, valvular heart diseases, cardiomyopathies, pericardial diseases etc through catheter-based procedures, such as angioplasty, stenting etc.A number of procedures can be performed by catheterisation of heart and vessels: the coronary artery, peripheral artery or vein, the renal artery, although the commonest is the coronary artery. It involves insertion of a sheath into the radial or femoral artery and cannulating the heart under the x-ray vision (fluoroscopy). The radial artery has the advantage of easy control of bleeding in anti-coagulated patients, increased comfort levels as early mobilisation is possible.Interventional cardiology offers an advantage of avoiding scars and pain and long post-operative recovery period.Primary Angioplasty, the most rewarding interventional cardiology technique is now the gold standard of treating acute myocardial infarction (acute heart attack). It involves extraction of clots from the blocked coronary arteries with or without deployment of stents. It preserves the pumping function of the heart, so that the patient will have less chances of heart failure in future.At Medi Care, we offer interventional cardiology treatment options. Our cardiologists are trained in premier institutions in India and abroad and periodically update their skills to practice contemporary medicine. Evidence-based medicine and following international treatment protocols is the hallmark of the department.",
+        "detailstitle": "We Offer:",
+        "details": [
+            "Angioplasty: also called percutaneous coronary intervention (PCI) for treatment of coronary artery disease.",
+            "Valvuloplasty: for dilatation of narrowed cardiac valves, which help regulate the blood flow through the chambers of the heart.",
+            "Congenital heart defect correction: like atrial and ventricular septal defects- device closures, device closure of patent ductus arteriosus and angioplasty of greater",
+            "vessels- aorta/ PA branches",
+            "Percutaneous valve replacement: an alternative to open heart surgery",
+            "Per cutaneous valve repair on the mitral and pulmonary valve",
+            "Coronary thrombectomy which involves removing of a blood clot from the coronary arteries",
+            "Peripheral Vascular Disease intervention which involves the other arteries like renal, carotids, subclavian, mesenteric, femoral or distal lower limb vessels"
+        ]
+    },
+    {
+        "service_id": "MDC05",
+        "serviceName": "Neurosurgery",
+        "img": "https://www.columbiaindiahospitals.com/sites/all/themes/columbianew/img/new-design-images/specialties-page-icons/neurosurgery.png",
+        "summary": "The Department of Neurosurgery at Medi Care, has a team of highly qualified and experienced Neurosurgeons specializing in all types of neurosurgery for comprehensive management of diseases and disorders of the brain, spinal cord and peripheral nerves. The department aims at excellence in neurosurgical care through practice of evidence based medicine and treatment according to international protocols.The consultants in the department have the expertise in various aspects of modern neurosurgery including trauma care, cerebrovascular surgery, interventional neuroradiology, endoscopic neurosurgery, minimally invasive neurosurgery and stereotactic neurosurgery.  Comprehensive neuro-trauma services are available round the clock to provide emergency care for patients needing surgical and ICU management of head and spinal injuries.Skull base surgeries are done as a multi-specialty surgical exercise which requires a team approach and is offered for surgical excision of skull base tumors, cranio facial resection and CSF (Cerebrospinal fluid) leak repair. The team also performs functional neurosurgical procedures like epilepsy surgery and surgery for relief of chronic pain.",
+        "detailstitle": "Treatments and Procedures",
+        "details": [
+            "Cerebrovascular surgery for carotid endarterectomy, cerebral aneurysms and arterio venous malformation (AVM",
+            "Skull base surgery",
+            "Pediatric neurosurgeries like shunt surgery and surgery for spinal dysraphism",
+            "Interventional neuroradiology like coiling of aneurysm, AVM embolization diagnostic angiograms and intraoperative angiograms",
+            "Trauma surgeries",
+            "Laparoscopic surgeries or endoscopic surgeries",
+            "Stereotactic neurosurgery",
+            "Pituitary surgery"
+        ]
+    },
+    {
+        "service_id": "MDC06",
+        "serviceName": "Physiotherapy",
+        "img": "https://www.columbiaindiahospitals.com/sites/all/themes/columbianew/img/new-design-images/specialties-page-icons/physiotherapy.png",
+        "summary": "Physiotherapy is a health care profession that offers a wide range of specialized services. The aim is of physiotherapy is to make a proper diagnosis and afford customized treatment in order to prevent further damage or disease. Physiotherapists work primarily with people recovering from injuries. The goal is to get patients back in motion with exercises, massage, and other techniques, and therapy usually happens in the hospital setting.  Physical therapy often focuses on preventing further injuries, and it can help people to avoid surgery or a long-term dependence on medications.Our physiotherapists assist their patients, ably, so that they recover quickly and become independent. This is done  by targeting the therapy on those systems of the body related to movement and muscle strength.  Physical therapists at Medi CareReferral Hospital work with the patients to evolve the best course of treatment for them. They focus on applying therapy to those parts of the body that cause limitation of the ability to move, to play sports, or to perform activities of daily living.The inpatient and outpatient services offered by Physiotherapy are designed with a primary goal in mind:  to restore function of the concerned body parts and to achieve better quality of life on the whole.  Whether it is about managing pain, or learning to walk, or preparing to work, or adjusting to life after illness, our team of experts engages with the patient and his/her family to design a customized treatment plan tailored to suit the patient's absolute needs.“The goal of Physiotherapy is to get your body back to its original function as soon as possible.",
+        "detailstitle": "Physiotherapy is offered to individuals who are experiencing:",
+        "details": [
+            "Back and neck pain.",
+            "Brain injury and stroke.",
+            "Joint and muscle pain.",
+            "Spinal cord injuries.",
+            "Sports-related injuries.",
+            "Joint restriction and adhesions.",
+            "Parkinson and stroke rehabilitation.",
+            "Falls and fractures.",
+            "Arthritis and osteoporosis."
+        ]
+    },
+    {
+        "service_id": "MDC07",
+        "serviceName": "Nephrology",
+        "img": "https://www.columbiaindiahospitals.com/sites/all/themes/columbianew/img/new-design-images/specialties-page-icons/nephrology.png",
+        "summary": "The Department of Nephrology at Medi CareHospitals offers a variety of options for those afflicted by renal diseases. The team of consultants is highly qualified and experienced, having trained at premier institutions in India and abroad. They provide total solutions to renal diseases. The mission of the team is to provide state-of-the art services using evidence-based guidelines and international protocols, at an affordable cost. Multi-disciplinary approach is the hallmark to manage renal diseases. The hospital has the support of specially trained nurses, interventional radiologists, cardiologists, diabetologists, intensivists and others to manage the intricate care these patients require. A well-equipped, laboratory, radiology and imaging services complement the team. A modern, well-equipped dialysis unit is available, with dedicated dialysis machines for those with Hepatitis B or C. Infection control as per international standards are maintained. Facilities are also available for bedside dialysis for critically ill inpatients.",
+        "detailstitle": "Treatments and Procedures",
+        "details": [
+            "Acute renal failure",
+            "Chronic renal failure",
+            "Acute and chronic nephritis",
+            "Nephrotic syndrome",
+            "Reno vascular hypertension",
+            "Collagen disorders involving the kidneys",
+            "CRRT (Continuous Renal Replacement Therapy) for critically ill patients requiring dialysis",
+            "Hemodialysis for acute and chronic renal failure patients, drug overuse etc",
+            "Short term dialysis prior to transplantation",
+            "Plasmapheresis for renal or non-renal cases",
+            "Rigorous precautions are taken with patients suffering from Hepatitis B and C and dialysis for such patients is done on separate machines",
+            "Continuous Ambulatory Peritoneal Dialysis (CAPD) for dialysis done at home"
+        ]
+    },
+    {
+        "service_id": "MDC08",
+        "serviceName": "Neurology",
+        "img": "https://www.columbiaindiahospitals.com/sites/all/themes/columbianew/img/new-design-images/specialties-page-icons/neurology.png",
+        "summary": "Department of Neurology at Medi CareHospitals offers round the clock, comprehensive diagnostic and therapeutic neurology services. The Neurology team is highly qualified, experienced and manage patients as per internationally accepted, evidence based protocols. The team handles regular outpatient neurological problems as well as neurological emergencies like acute ischemic strokes, intracranial bleeds (traumatic and non- traumatic), neuromuscular emergencies, neuro-infections and status epilepticus.b The neurology consultants are the leaders of the stroke team that also comprises of neuroradiologists, neurosurgeons and interventional specialists trained in acute stroke care. The procedures offered are intravenous, intra-arterial and mechanical thrombolysis, intracranial and extracranial cerebral vessel angioplasty and stenting, decompressive craniectomy for large infarcts, evacuation of the intracerebral clots using penumbra device and stereotactic technique The department of neurology at Medi CareHospitals, are supported by well equipped neuro intensive care unit facilities like invasive intra cranial pressure monitoring and bedside Electro Encephalo Gram (EEG) monitoring for managing critically ill patients with neurological illnesses. Neurologists are experienced to administer botulinum toxin injections in various movement disorders and spasticity.",
+        "detailstitle": "Treatments and Procedures",
+        "details": [
+            "Diagnosis and management of various seizure disorders",
+            "Neurophysiology unit: Nerve conduction study, Electromyography, Repetitive nerve stimulation study, evoked potentials (VEP,SSEP,BAER), EEG, portable EEG and sleep lab",
+            "Management of neuromuscular disorders, peripheral neuropathies, chronic pain, neuro-infections and sleep disorders",
+            "Management and treatment of stroke",
+            "Comprehensive neuro rehabilitation including physiotherapy and occupational therapy",
+            "Management of dementia including alzheimer’s disease",
+            "Thrombolysis with tissue plasminogen activator (TPA)"
+        ]
+    },
+    {
+        "service_id": "MDC09",
+        "serviceName": "Robotic Surgery",
+        "img": "https://www.columbiaindiahospitals.com/sites/all/themes/columbianew/img/new-design-images/specialties-page-icons/robotic-surgery.png",
+        "summary": "Medi CareReferral Hospital Yeshwanthpur, a tertiary care hospital, has now introduced robotic surgery in Urology and Gastrointestinal surgery. The hospital which has infrastructure and technical expertise is known for clinical expertise in all specialties. With the commencement of robotic surgeries, we have reached the pinnacle of excellence. The robotic equipment is used in renowned institutions globally. The equipment in Medi Careis the most contemporary model and our Consultants are extensively trained in robotic surgery. A dedicated operation theatre is remodeled to enable the consultants to perform the intricate and precision driven surgery, in an ambient environment. The consultants, who are trained in renowned institutes in India and abroad, follow all protocols to ensure the best standard of care is given.",
+        "detailstitle": "The robotic assisted surgery advantage",
+        "details": [
+            " Better insite 3D vision, camera zoom",
+            "Very precise surgery, offers flexibility and better control",
+            "Significantly less pain",
+            "Fewer complications",
+            "Less bleeding and associated complications",
+            "Lower rates of infection",
+            "Less need for medication",
+            "Smaller incisions",
+            "Shorter catheter time",
+            "Less scaring",
+            "Shorter hospital stay",
+            "Fewer hospital re-admissions",
+            "Quicker recovery time",
+            "Better clinical outcomes"
+        ]
+    }
+]

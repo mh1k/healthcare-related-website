@@ -1,0 +1,128 @@
+[
+    {
+        "pakage_id":"PAK01",
+        "pakageName": "Post-COVID Care Package",
+        "gender": "Male, Female",
+        "Price": 20,
+        "img": "https://www.columbiaindiahospitals.com/sites/default/files/styles/listing_pages/public/health-check/covid-package-banner.jpeg?itok=9I7ptua-",
+        "descriptionTitle": "Terms and Conditions",
+        "description": [
+            "Bring all your earlier medical records (last 3 years) and medical accessories like glasses, hearing aid (if any) when you come for the Health check",
+            "For TMT, please avoid wearing jewelery. You would need to walk barefoot on the tread mill and for your comfort we suggest that you avoid tight fitting clothes",
+            " If you have difficulty walking on Treadmill you will be offered Echo Cardiography in lieu of Treadmill Test",
+            " If you are Diabetic, on medication, please take the scheduled medication on the day of the check up after giving fasting sample.",
+            "If you are a Hypertensive and taking medication, please take the scheduled medication on the day of the check up after giving fasting sample.",
+            "* with one consultant if necessary",
+            "Package cost is applicable only to residents of India. People residing outside of India may request us for a quote",
+            "* Complimentary Breakfast for all packages.",
+            " * psa/pft for men",
+            "* mammography for women over 40",
+            "* psa for men over 50"
+        ]
+    },
+    {
+        "pakage_id":"PAK02",
+        "pakageName": "Prostate Screening",
+        "gender": "Male",
+        "Price": 50,
+        "img": "https://www.columbiaindiahospitals.com/sites/default/files/styles/listing_pages/public/health-check/prostate-screening-package.jpg?itok=KDhxa2Xm",
+        "descriptionTitle": "Terms and Conditions",
+        "description": [
+            "Bring all your earlier medical records (last 3 years) and medical accessories like glasses, hearing aid (if any) when you come for the Health check",
+            "For TMT, please avoid wearing jewelery. You would need to walk barefoot on the tread mill and for your comfort we suggest that you avoid tight fitting clothes",
+            " If you have difficulty walking on Treadmill you will be offered Echo Cardiography in lieu of Treadmill Test",
+            " If you are Diabetic, on medication, please take the scheduled medication on the day of the check up after giving fasting sample.",
+            "If you are a Hypertensive and taking medication, please take the scheduled medication on the day of the check up after giving fasting sample.",
+            "* with one consultant if necessary",
+            "Package cost is applicable only to residents of India. People residing outside of India may request us for a quote",
+            "* Complimentary Breakfast for all packages.",
+            " * psa/pft for men",
+            "* mammography for women over 40",
+            "* psa for men over 50"
+        ]
+    },
+    {
+        "pakage_id":"PAK03",
+        "pakageName": "Pediatric Screening Package",
+        "gender": "Male, Female",
+        "Price": 70,
+        "img": "https://www.columbiaindiahospitals.com/sites/default/files/styles/listing_pages/public/health-check/pediatric-screening-package.jpg?itok=eBXZ22yX",
+        "descriptionTitle": "Terms and Conditions",
+        "description": [
+            "Bring all your earlier medical records (last 3 years) and medical accessories like glasses, hearing aid (if any) when you come for the Health check",
+            "For TMT, please avoid wearing jewelery. You would need to walk barefoot on the tread mill and for your comfort we suggest that you avoid tight fitting clothes",
+            " If you have difficulty walking on Treadmill you will be offered Echo Cardiography in lieu of Treadmill Test",
+            " If you are Diabetic, on medication, please take the scheduled medication on the day of the check up after giving fasting sample.",
+            "If you are a Hypertensive and taking medication, please take the scheduled medication on the day of the check up after giving fasting sample.",
+            "* with one consultant if necessary",
+            "Package cost is applicable only to residents of India. People residing outside of India may request us for a quote",
+            "* Complimentary Breakfast for all packages.",
+            " * psa/pft for men",
+            "* mammography for women over 40",
+            "* psa for men over 50"
+        ]
+    },
+    {
+        "pakage_id":"PAK04",
+        "pakageName": "Basic Cancer Screening Package",
+        "gender": "Male",
+        "Price": 60,
+        "img": "https://www.columbiaindiahospitals.com/sites/default/files/styles/listing_pages/public/health-check/basic-cancer-screening-package-male.jpg?itok=5HXFVvh5",
+        "descriptionTitle": "Terms and Conditions",
+        "description": [
+            "Bring all your earlier medical records (last 3 years) and medical accessories like glasses, hearing aid (if any) when you come for the Health check",
+            "For TMT, please avoid wearing jewelery. You would need to walk barefoot on the tread mill and for your comfort we suggest that you avoid tight fitting clothes",
+            " If you have difficulty walking on Treadmill you will be offered Echo Cardiography in lieu of Treadmill Test",
+            " If you are Diabetic, on medication, please take the scheduled medication on the day of the check up after giving fasting sample.",
+            "If you are a Hypertensive and taking medication, please take the scheduled medication on the day of the check up after giving fasting sample.",
+            "* with one consultant if necessary",
+            "Package cost is applicable only to residents of India. People residing outside of India may request us for a quote",
+            "* Complimentary Breakfast for all packages.",
+            " * psa/pft for men",
+            "* mammography for women over 40",
+            "* psa for men over 50"
+        ]
+    },
+    {
+        "pakage_id":"PAK05",
+        "pakageName": "Comprehensive Cardiac Screening",
+        "gender": "Male, Female",
+        "Price": 90,
+        "img": "https://www.columbiaindiahospitals.com/sites/default/files/styles/listing_pages/public/health-check/comprehensive-cardiac-screening-package_1.jpg?itok=dAHWtvEX",
+        "descriptionTitle": "Terms and Conditions",
+        "description": [
+            "Bring all your earlier medical records (last 3 years) and medical accessories like glasses, hearing aid (if any) when you come for the Health check",
+            "For TMT, please avoid wearing jewelery. You would need to walk barefoot on the tread mill and for your comfort we suggest that you avoid tight fitting clothes",
+            " If you have difficulty walking on Treadmill you will be offered Echo Cardiography in lieu of Treadmill Test",
+            " If you are Diabetic, on medication, please take the scheduled medication on the day of the check up after giving fasting sample.",
+            "If you are a Hypertensive and taking medication, please take the scheduled medication on the day of the check up after giving fasting sample.",
+            "* with one consultant if necessary",
+            "Package cost is applicable only to residents of India. People residing outside of India may request us for a quote",
+            "* Complimentary Breakfast for all packages.",
+            " * psa/pft for men",
+            "* mammography for women over 40",
+            "* psa for men over 50"
+        ]
+    },
+    {
+        "pakage_id":"PAK06",
+        "pakageName": "Healthy Heart Package",
+        "gender": "Male, Female",
+        "Price": 100,
+        "img": "https://www.columbiaindiahospitals.com/sites/default/files/styles/listing_pages/public/health-check/healthy-heart-package.jpg?itok=RrLRXvhG",
+        "descriptionTitle": "Terms and Conditions",
+        "description": [
+            "Bring all your earlier medical records (last 3 years) and medical accessories like glasses, hearing aid (if any) when you come for the Health check",
+            "For TMT, please avoid wearing jewelery. You would need to walk barefoot on the tread mill and for your comfort we suggest that you avoid tight fitting clothes",
+            " If you have difficulty walking on Treadmill you will be offered Echo Cardiography in lieu of Treadmill Test",
+            " If you are Diabetic, on medication, please take the scheduled medication on the day of the check up after giving fasting sample.",
+            "If you are a Hypertensive and taking medication, please take the scheduled medication on the day of the check up after giving fasting sample.",
+            "* with one consultant if necessary",
+            "Package cost is applicable only to residents of India. People residing outside of India may request us for a quote",
+            "* Complimentary Breakfast for all packages.",
+            " * psa/pft for men",
+            "* mammography for women over 40",
+            "* psa for men over 50"
+        ]
+    }
+]

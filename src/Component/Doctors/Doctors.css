@@ -1,0 +1,17 @@
+.doctor-img{
+    height: 200px;
+    width: 200px;
+    object-fit: cover !important;
+    border-radius: 50% !important;
+    border: 1px solid #c3daee;
+}
+.doctor-card:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.11), 0 6px 20px 0 rgba(0, 0, 0, 0.158);
+    
+}
+.doctor-card{
+    border: 1px solid rgba(128, 128, 128, 0.24) !important;
+}
+.doctor{
+    font-weight: 700;
+}

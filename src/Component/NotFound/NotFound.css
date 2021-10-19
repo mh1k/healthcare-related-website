@@ -1,0 +1,14 @@
+.not-found{
+    height: 450px;
+}
+.homeBtn{
+    text-decoration: none;
+    background-color: rgb(223, 59, 30);
+    padding: 10px 18px;
+    color: white;
+    font-weight: bold;
+}
+.homeBtn:hover{
+    color: white;
+    text-decoration: underline;
+}
