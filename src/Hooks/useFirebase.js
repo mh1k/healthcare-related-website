@@ -25,6 +25,9 @@ const useFirebase = () => {
 
 
     };
+    const handleError = () => {
+        setError("")
+    }
 
 
     useEffect(() => {
@@ -60,6 +63,7 @@ const useFirebase = () => {
 
     const handleNameChange = e => {
         setName(e.target.value);
+        setError("")
     };
 
     const setUserName = () => {
@@ -71,7 +75,11 @@ const useFirebase = () => {
 
     const handleRegistration = e => {
         e.preventDefault();
-        console.log(email, password, name);
+        // console.log(email, password, name);
+        if (!/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(email)) {
+            setError('invaild email address')
+            return
+        }
         if (password.length < 6) {
             setError('password must be at least 6 characters long')
             return
@@ -89,8 +97,8 @@ const useFirebase = () => {
                 console.log(result.user);
             })
             .catch(error => {
-                setError(error.message);
-                // console.log(error);
+                setError("this email address allready registered");
+                // console.log(error.message);
                 // setError("your email or password Worng");
             })
     };
@@ -100,14 +108,26 @@ const useFirebase = () => {
         signInWithEmailAndPassword(auth, email, password)
             .then(result => {
                 const user = result.user;
-                console.log(user);
+                // console.log(user);
                 setUser(user)
                 setError('')
+
             })
             .catch(error => {
-                setError(error.message);
-                console.log(error);
-                setError("your email or password Worng");
+                // console.log(error.message);
+                if (error.message === "Firebase: Error (auth/user-not-found).") {
+                    setError("this email address not registered");
+                    return
+                }
+                if (error.message === "Firebase: Error (auth/wrong-password).") {
+                    setError("your email or password Worng");
+                    return
+                }
+                else{
+                    setError(error.message);
+                    return
+                }
+                // setError("your email or password Worng");
             })
     }
 
@@ -122,7 +142,8 @@ const useFirebase = () => {
         isLodding,
         handleRegistration,
         handleNameChange,
-        handleLogin
+        handleLogin,
+        handleError
     };
 
 

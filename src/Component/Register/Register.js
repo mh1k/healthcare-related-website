@@ -5,7 +5,7 @@ import useAuth from '../../Hooks/useAuth';
 import './Register.css'
 
 const Register = () => {
-    const { handleEmailChange, handlePasswordChange, handleRegistration, signInUsingGoogle, handleNameChange, error } = useAuth();
+    const { handleEmailChange, handlePasswordChange, handleRegistration, signInUsingGoogle, handleNameChange, error,handleError } = useAuth();
     const location = useLocation();
     const history = useHistory();
     const redirect_uri = location.state?.from || '/home';
@@ -37,7 +37,7 @@ const Register = () => {
 
                 </div>
                 <div className="text-start mb-3">
-                    <Link to='/login'>already Registered ?</Link>
+                    <Link onClick={handleError} to='/login'>already Registered ?</Link>
                     {/* <Link onClick={() => setIsLogin(!isLogin)} to='/login'>already Registered ?</Link> */}
                 </div>
                 <button type="submit" value="Submit" className="btn btn-primary w-100">Register</button>

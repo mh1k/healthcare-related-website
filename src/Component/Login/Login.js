@@ -5,10 +5,12 @@ import useAuth from '../../Hooks/useAuth';
 import './Login.css'
 
 const Login = () => {
-    const { handleEmailChange, handlePasswordChange, signInUsingGoogle, handleLogin, error } = useAuth();
+    const { handleEmailChange, handlePasswordChange, signInUsingGoogle, handleLogin, error, handleError, } = useAuth();
     const location = useLocation();
     const history = useHistory();
     const redirect_uri = location.state?.from || '/home';
+
+
 
     const handleGoogleLogin = () => {
         signInUsingGoogle()
@@ -32,7 +34,7 @@ const Login = () => {
                 </div>
                 <div className="text-start mb-3">
                     {/* <Link onClick={() => setIsLogin(!isLogin)}  to="/register">new user ?</Link> */}
-                    <Link to="/register">new user ?</Link>
+                    <Link onClick={handleError} to="/register">new user ?</Link>
                 </div>
                 <button type="submit" value="Submit" className="btn btn-primary w-100">Login</button>
             </form>
