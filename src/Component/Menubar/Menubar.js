@@ -17,7 +17,8 @@ const Menubar = () => {
                             <Link className="text-decoration-none text-light me-3 nav-link" to="/home">Home</Link>
                             {/* <Link className="text-decoration-none text-light me-3 nav-link" to="/services"></Link> */}
                             <Link className="text-decoration-none text-light me-3 nav-link" to="/doctor">Doctor</Link>
-                            <Link className="text-decoration-none text-light me-3 nav-link" to="/contact">Contact</Link>
+                            <Link className="text-decoration-none text-light me-3 nav-link" to="/contact">Contact us</Link>
+                            <Link className="text-decoration-none text-light me-3 nav-link" to="/about">About us</Link>
 
 
                         </Nav>
