@@ -28,9 +28,9 @@ const HealthPackageDetails = () => {
             </div>
             <Container>
                 <div className="mt-5 mb-5">
-                <h5 className="mb-4 p-2 pakage-title"><span className="me-3">{testIcon}</span>{singlePackage?.packagesubName}</h5>
-                {
-                        singlePackage?.packagesubDetails?.map(dt => <p># {dt}</p>)
+                    <h5 className="mb-4 p-2 pakage-title"><span className="me-3">{testIcon}</span>{singlePackage?.packagesubName}</h5>
+                    {
+                        singlePackage?.packagesubDetails?.map(dt => <p key={dt}># {dt}</p>)
                     }
                 </div>
 

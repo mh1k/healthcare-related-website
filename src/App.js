@@ -13,6 +13,7 @@ import PrivateRoute from './Component/PrivateRoute/PrivateRoute';
 import Register from './Component/Register/Register';
 import ServiceDetails from './Component/ServiceDetails/ServiceDetails';
 import AuthProvider from './Context/Context';
+import ScrollToTop from './ScrollToTop/ScrollToTop';
 
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
     <div className="">
       <AuthProvider>
         <Router>
+          <ScrollToTop> {/*scrollToTop use for react new page render from the bottom of the screen problem */}
           <Menubar></Menubar>
           <Switch>
             <Route exact path="/">
@@ -43,9 +45,9 @@ function App() {
             <Route path="/about">
               <About></About>
             </Route>
-            <Route path="/healthpackage/:packageId">
+            <PrivateRoute path="/healthpackage/:packageId">
               <HealthPackageDetails></HealthPackageDetails>
-            </Route>
+            </PrivateRoute>
             <PrivateRoute path="/doctor">
               <Doctors></Doctors>
             </PrivateRoute>
@@ -54,6 +56,7 @@ function App() {
             </Route>
           </Switch>
           <Footer></Footer>
+          </ScrollToTop>
         </Router>
       </AuthProvider>
     </div>
