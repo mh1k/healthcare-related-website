@@ -20,7 +20,7 @@ const HealthPackageDetails = () => {
 
 
     const singlePackage = packages?.find(packag => packag.pakage_id === packageId)
-    console.log(singlePackage);
+    // console.log(singlePackage);
     return (
         <div>
             <div className="package-banner d-flex align-items-center justify-content-center ">
