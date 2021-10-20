@@ -1,16 +1,20 @@
+import { faClinicMedical } from '@fortawesome/free-solid-svg-icons';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
-import { Col, Container, Row } from 'react-bootstrap';
+import { Col, Container, Nav, Row } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
+import { HashLink } from 'react-router-hash-link';
 import './Footer.css'
 
 const Footer = () => {
+
+    const hospitalIcon = <FontAwesomeIcon icon={faClinicMedical} />
     return (
         <div className=" mt-5 view-btn text-light pt-5 pb-4">
             <Container>
                 <Row>
                     <Col className="col-12 text-center col-md-4 footer-img mb-3">
-                        <h1>Medicare <br />
-                        Hospital Ltd.</h1>
+                        <h1><span className="me-3">{hospitalIcon}</span>Medicare</h1>
                     </Col>
 
                    
@@ -22,6 +26,10 @@ const Footer = () => {
                         <Link to='/terms' className="text-decoration-none text-light footer-btn" >Terms and Conditions</Link>
                         <br />
                         <Link to='/privacy' className="text-decoration-none text-light footer-btn">Privacy Policy</Link><br />
+                        <Nav.Link className="footer-btn p-0 text-light text-decoration-none" as={HashLink} to="/home#service">service</Nav.Link>
+                        <Nav.Link className="footer-btn p-0 text-light text-decoration-none" as={HashLink} to="/home#healthpackage">Health package</Nav.Link>
+                        <Nav.Link className="footer-btn p-0 text-light text-decoration-none" as={HashLink} to="#menubar">Back to top</Nav.Link>
+                        
                         
 
                     </Col>

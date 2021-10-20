@@ -4,6 +4,7 @@ import About from './Component/About/About';
 import Contact from './Component/Contact/Contact';
 import Doctors from './Component/Doctors/Doctors';
 import Footer from './Component/Footer/Footer';
+import HealthPackageDetails from './Component/HealthPackageDetails/HealthPackageDetails';
 import Home from './Component/HomePage/Home/Home';
 import Login from './Component/Login/Login';
 import Menubar from './Component/Menubar/Menubar';
@@ -41,6 +42,9 @@ function App() {
             </Route>
             <Route path="/about">
               <About></About>
+            </Route>
+            <Route path="/healthpackage/:packageId">
+              <HealthPackageDetails></HealthPackageDetails>
             </Route>
             <PrivateRoute path="/doctor">
               <Doctors></Doctors>

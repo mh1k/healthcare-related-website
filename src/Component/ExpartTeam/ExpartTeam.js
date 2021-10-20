@@ -1,10 +1,14 @@
+import { faUserMd } from '@fortawesome/free-solid-svg-icons';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
 import { Container, Row } from 'react-bootstrap';
 
 const ExpartTeam = () => {
+
+    const userIcon = <FontAwesomeIcon icon={faUserMd} />
     return (
         <Container className="my-5">
-            <h2 className=" mt-4  fw-bold title-service">Expert Team</h2>
+            <h2 className=" mt-4  fw-bold title-service"><span className="me-3">{userIcon}</span>Expert Team</h2>
             <hr className="mb-5" />
             <Row xs={1} md={2}>
                 <div className="col d-flex align-items-center justify-content-center">

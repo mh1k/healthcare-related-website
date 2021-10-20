@@ -7,6 +7,7 @@ initAuthentication();
 
 const useFirebase = () => {
 
+
     const auth = getAuth();
     const googleProvider = new GoogleAuthProvider();
 
@@ -100,7 +101,7 @@ const useFirebase = () => {
                 const info = { ...result.user, displayName: name }
                 setUser(info);
                 setError("");
-                console.log(result.user);
+                // console.log(result.user);
             })
             .catch(error => {
                 setError("this email address allready registered");

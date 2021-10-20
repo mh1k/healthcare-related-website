@@ -10,6 +10,9 @@
   }
 
   .google-btn{
-    background-color: tomato;
+    background-color: #32a350;
     color: white;
+  }
+  .google-btn:hover{
+    color: #ffffff;
   }

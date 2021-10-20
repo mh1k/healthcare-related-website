@@ -1,0 +1,16 @@
+.background-color{
+    background-color: cornflowerblue;
+}
+.service-banner{
+    background-image: url("https://i.ibb.co/R6TYPT4/insurance-1.jpg");
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.service-head{
+    color: white;
+    font-weight: 700;
+    /* font-size: 60px; */
+ 
+}

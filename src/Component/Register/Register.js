@@ -1,3 +1,5 @@
+import { faGoogle } from '@fortawesome/free-brands-svg-icons';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
 import { Container } from 'react-bootstrap';
 import { Link, useLocation, useHistory } from 'react-router-dom';
@@ -17,6 +19,8 @@ const Register = () => {
             })
 
     }
+    const googleIcon = <FontAwesomeIcon icon={faGoogle} />
+    
     return (
         <Container className="text-center mt-5 ">
             <form onSubmit={handleRegistration} className="login-from mx-auto">
@@ -53,7 +57,7 @@ const Register = () => {
             {/* google sign in */}
             <div className="login-from mx-auto mt-3">
                     <p>or</p>
-                    <button onClick={handleGoogleLogin} className="google-btn btn w-100">Continue with google</button>
+                    <button onClick={handleGoogleLogin} className="google-btn btn w-100"><span className="me-2">{googleIcon}</span>Continue with google</button>
                 </div>
         </Container>
     );

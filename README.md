@@ -14,4 +14,5 @@ This project live site (https://new-medicare.web.app/).
 - ReactBootstrap
 - Firebase Authentication
 - Firebase Hosting
+- FontAwesome
 
